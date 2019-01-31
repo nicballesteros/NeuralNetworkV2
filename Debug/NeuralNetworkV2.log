@@ -1,0 +1,3 @@
+﻿  NeuralNetworkV2.cpp
+c:\users\nic\source\repos\neuralnetworkv2\neuralnetworkv2\neuralnetworkv2.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NeuralNetworkV2.vcxproj -> C:\Users\Nic\source\repos\NeuralNetworkV2\Debug\NeuralNetworkV2.exe
